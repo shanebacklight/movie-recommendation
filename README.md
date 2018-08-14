@@ -11,6 +11,10 @@ The input is user and movie, the output is the prediction of rating score which 
 # Methods
 
 1. word vector
-2. LSTM
+2. Attention Model with LSTM
+3. Pearson correlation coefficient
 
-Waiting to be complete...
+Please refer our report, already uploaded to current directory, to dive into more details.
+
+** Model sketch below **
+![](https://drive.google.com/open?id=1WrfKhr2a084w2WLRVSRKtRAO74iR21Ai)
