@@ -17,4 +17,5 @@ The input is user and movie, the output is the prediction of rating score which 
 Please refer our report, already uploaded to current directory, to dive into more details.
 
 ** Model sketch below **
+
 ![](https://drive.google.com/open?id=1WrfKhr2a084w2WLRVSRKtRAO74iR21Ai)
